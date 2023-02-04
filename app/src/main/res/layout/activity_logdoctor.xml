@@ -23,7 +23,9 @@
         android:layout_marginLeft="50dp"
         android:layout_marginTop="20dp"
         android:gravity="bottom"
-        android:text="Email-Id" />
+        android:text="Email-Id"
+        android:textColor="#FAFAFA"
+        android:textSize="20sp" />
 
     <EditText
         android:id="@+id/txtemail"
@@ -39,7 +41,9 @@
         android:layout_height="48dp"
         android:layout_marginLeft="50dp"
         android:gravity="bottom"
-        android:text="Password" />
+        android:text="Password"
+        android:textColor="#FAFAFA"
+        android:textSize="20sp" />
 
     <EditText
         android:id="@+id/txtPwd"

@@ -20,7 +20,7 @@ public class searchPatient extends AppCompatActivity {
 //        WebSettings webSettings = myWebView.getSettings();
 //        webSettings.setJavaScriptEnabled(true);
 //        webView.getSettings().setJavaScriptEnabled(true); // true/false to enable disable JavaScript support
-        myWebView.loadUrl("https://charak.netlify.app/");
+        myWebView.loadUrl("https://ssas.netlify.app/");
 
     }
 
