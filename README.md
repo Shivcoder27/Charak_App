@@ -84,11 +84,11 @@ Thanks goes to these wonderful people :
 <!-- prettier-ignore -->
  <table>
   <tr>
-    <td align="center"><img src="https://github.com/codERSunny812/HTF3.0/blob/main/image/shivashish.jpg" width="100px;" alt="Shivashish Kaushik"/><br /><sub><b>Shivashish Kaushik</b></sub><br /><a href="https://github.com/Shivcoder27"title="Code">ANDRIOD DEVELOPER💻</a></td> 
+    <td align="center"><img src="https://github.com/codERSunny812/HTF3.0/blob/main/image/shivashish.jpg" width="100px;" alt="Shivashish Kaushik"/><br /><sub><b>Shivashish Kaushik</b></sub><br /><a href="https://github.com/Shivcoder27"title="Code">FUllSTACK ANDRIOD DEVELOPER💻</a></td> 
     <td align="center"><img src="https://github.com/codERSunny812/HTF3.0/blob/main/image/sunny.jpg" width="100px;" alt="Sushil pandey"/><br /><sub><b>Sushil Pandey </b></sub><br /><a href="https://github.com/codersunny812"title="Code">FRONT END DEVELOPER💻</a></td>
      <td align="center"><img src="https://github.com/codERSunny812/HTF3.0/blob/main/image/shivam.jpg" width="100px;" alt="Shivam Seth"/><br /><sub><b>Shivam Seth </
 rawb></sub><br /><a href="https://github.com/shivamseth22"title="Code">BACK END DEVELOPER 💻</a></td>
-    <td align="center"><img src="https://github.com/codERSunny812/HTF3.0/blob/main/image/arif.jpg" width="100px;" alt="João Ventura"/><br /><sub><b>Arif Khan</b></sub><br /><a href="https://github.com/shivamseth22"title="Design">UI & UX DESIGNER🎨</a></td>
+    <td align="center"><img src="https://github.com/codERSunny812/HTF3.0/blob/main/image/arif.jpg" width="100px;" alt="João Ventura"/><br /><sub><b>Arif Khan</b></sub><br /><a href="https://github.com/shivamseth22"title="Design">UI & Backend🎨</a></td>
   </tr>
 </table> 
 
